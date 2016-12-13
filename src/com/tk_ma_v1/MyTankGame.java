@@ -4,6 +4,8 @@
  * Anxin Ma
  * 14,12,2016
  * 
+ * This a tank game.
+ * 
  */
 
 package com.tk_ma_v1;
