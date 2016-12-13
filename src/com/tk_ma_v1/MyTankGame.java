@@ -4,6 +4,10 @@
  * Anxin Ma
  * 14,12,2016
  * 
+ * This a tank game.
+ * 
+ * This is a homework for Java learning course.
+ * 
  */
 
 package com.tk_ma_v1;
