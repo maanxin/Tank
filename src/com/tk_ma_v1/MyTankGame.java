@@ -6,6 +6,8 @@
  * 
  * This a tank game.
  * 
+ * This is a homework for Java learning course.
+ * 
  */
 
 package com.tk_ma_v1;
